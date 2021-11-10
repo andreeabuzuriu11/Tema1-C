@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T17:06:27.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="hk5yAd4ockTqNf73d_xn" version="15.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T17:07:35.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="g_754s7k_MrK4-wsNtN0" version="15.7.2" type="github">
   <diagram id="9ySNxExDfK84M0mF2SwR" name="Page-1">
-    <mxGraphModel dx="1120" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1587" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="EvSNONCj7fmxKIA4PcLL-7" value="Logare" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EvSNONCj7fmxKIA4PcLL-15" value="Delogare" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="EvSNONCj7fmxKIA4PcLL-15" value="Schimbare parola" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="198" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EvSNONCj7fmxKIA4PcLL-16" value="Inregistrare" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="60" height="30" as="geometry" />
@@ -100,9 +100,9 @@
             <mxPoint x="390" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvSNONCj7fmxKIA4PcLL-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="EvSNONCj7fmxKIA4PcLL-1">
+        <mxCell id="EvSNONCj7fmxKIA4PcLL-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="355" as="sourcePoint" />
+            <mxPoint x="90" y="370" as="sourcePoint" />
             <mxPoint x="170" y="305" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="340" />
@@ -188,6 +188,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="370" as="sourcePoint" />
             <mxPoint x="700" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvSNONCj7fmxKIA4PcLL-92" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EvSNONCj7fmxKIA4PcLL-93" value="Delogare" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvSNONCj7fmxKIA4PcLL-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EvSNONCj7fmxKIA4PcLL-1" target="EvSNONCj7fmxKIA4PcLL-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="500" as="sourcePoint" />
+            <mxPoint x="100" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
